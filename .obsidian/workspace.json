@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2eca3b77fc7097cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7210a959cc75de05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0196a4c7410c69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InoArduino/Website Developer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3ecb842124ad816",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe8109d59e0e53a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e387c20d302161e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac46891a23c8f5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#resources",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8af91d93d308ea8f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7d7e23f9f26ee73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce46bab37a55d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b09a161cf72bed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "InoArduino/Website Developer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8778ec829a420da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "InoArduino/Website Developer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a98fd062fb311864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e034873274b9e1a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "InoArduino/Website Developer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c0196a4c7410c69d",
+  "lastOpenFiles": [
+    "README.md",
+    "InoArduino/Tasks.md",
+    "InoArduino/Student Mentoring.md",
+    "InoArduino/Curriculum Builder.md",
+    "InoArduino/About InoArduino.md",
+    "InoArduino/Improvements/Curriculum Improvements.md",
+    "InoArduino/Improvements/Logistic Improvements.md",
+    "InoArduino/Improvements/Website Improvements.md",
+    "InoArduino/Links/Arduino Docs.md",
+    "InoArduino/Links/Arduino IDE.md"
+  ]
+}

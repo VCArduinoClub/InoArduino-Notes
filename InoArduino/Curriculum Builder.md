@@ -1,3 +1,3 @@
-Members under the curriculum builder team create lessons for the students. These lessons will be filled with an explanation of a certain concept of Arduino or programming, and a task or project at the end of the lesson. Curriculum builders will certainly need to review [[!Arduino Resources]] and probably [[Arduino Docs]].  [[Curriculum Google Docs]] is the location where they will be adding in their lesson plans.
+Members under the curriculum builder team create lessons for the students. These lessons will be filled with an explanation of a certain concept of Arduino or programming, and a task or project at the end of the lesson. Curriculum builders will certainly need to review [[Arduino Resources]] and probably [[Arduino Docs]].  [[Curriculum Google Docs]] is the location where they will be adding in their lesson plans.
 
 Tasks: [[Curriculum Improvements]]
