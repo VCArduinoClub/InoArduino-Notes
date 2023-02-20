@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InoArduino/Tasks.md",
+                "file": "InoArduino/Improvements/Website Improvements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InoArduino/Tasks.md",
+                "file": "InoArduino/Improvements/Website Improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InoArduino/Tasks.md",
+                "file": "InoArduino/Improvements/Website Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InoArduino/Tasks.md"
+                "file": "InoArduino/Improvements/Website Improvements.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "c0196a4c7410c69d",
   "lastOpenFiles": [
-    "InoArduino/Website Developer.md",
+    "InoArduino/Improvements/Logistic Improvements.md",
+    "InoArduino/Improvements/Website Improvements.md",
+    "InoArduino/Links/Arduino Docs.md",
+    "InoArduino/Links/Arduino Resources.md",
+    "InoArduino/Links/Arduino IDE.md",
     "InoArduino/Tasks.md",
+    "InoArduino/Website Developer.md",
     "InoArduino/Student Mentoring.md",
     "InoArduino/Improvements/Curriculum Improvements.md",
-    "InoArduino/Curriculum Builder.md",
-    "InoArduino/Links/Arduino Docs.md",
-    "InoArduino/About InoArduino.md",
-    "InoArduino/Links/Workshops.md",
-    "InoArduino/Links/Curriculum Google Docs.md",
-    "InoArduino/Links/Arduino Resources.md"
+    "InoArduino/Curriculum Builder.md"
   ]
 }

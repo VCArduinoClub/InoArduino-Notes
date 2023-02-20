@@ -10,13 +10,13 @@
 
 **Action Items:** 
 1. Migrating to a T3 stack (Josh, Aayan)
-	-   Make modules and navigation (refer to curriculum on google docs)
+	-   Make modules and navigation (refer to curriculum on google docs) 
 	-   Migrate the curriculum from docs to the website
-	- Make it organized and visually appealing (Adi)
+	- Make it organized and visually appealing (Justin)
 		- Code blocks, image aligning, styling
 2. Visual improvements to website (Anit)
 	-   Make note of necessary changes referring to current website
-3. Backend Work (Lucas)
+3. Backend Work (Lucas, Adi)
 	- Come up with way of tracking student progress
 	-   Hosting 
 4. Update new repo readme (Advay)
