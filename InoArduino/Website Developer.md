@@ -1,3 +1,3 @@
 Students in this team will design frontend, implement frontend interactive logic on the website, and the backend. Currently, our website is static and presents information with interactivity only offered by the electronics kits. We are using Github projects as of now for our workflow to add new features and fixes to our website. We plan on changing this.
 
-Tasks: [Website Improvements](Website%20Improvements.md)
+Tasks: [Website Improvements](Improvements/Website%20Improvements.md)
