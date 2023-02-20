@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0196a4c7410c69d",
+            "id": "b63a93a8c076cf36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InoArduino/Improvements/Website Improvements.md",
+                "file": "InoArduino/Logistics Team.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f7d7e23f9f26ee73",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InoArduino/Improvements/Website Improvements.md",
+                "file": "InoArduino/Logistics Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InoArduino/Improvements/Website Improvements.md",
+                "file": "InoArduino/Logistics Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InoArduino/Improvements/Website Improvements.md"
+                "file": "InoArduino/Logistics Team.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0196a4c7410c69d",
+  "active": "b63a93a8c076cf36",
   "lastOpenFiles": [
-    "InoArduino/Improvements/Logistic Improvements.md",
+    "InoArduino/Website Developer.md",
+    "InoArduino/Logistics Team.md",
+    "README.md",
     "InoArduino/Improvements/Website Improvements.md",
+    "InoArduino/Improvements/Logistic Improvements.md",
     "InoArduino/Links/Arduino Docs.md",
     "InoArduino/Links/Arduino Resources.md",
     "InoArduino/Links/Arduino IDE.md",
     "InoArduino/Tasks.md",
-    "InoArduino/Website Developer.md",
-    "InoArduino/Student Mentoring.md",
-    "InoArduino/Improvements/Curriculum Improvements.md",
-    "InoArduino/Curriculum Builder.md"
+    "InoArduino/Student Mentoring.md"
   ]
 }
