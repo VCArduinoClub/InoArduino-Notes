@@ -7,5 +7,5 @@
 -   Create lesson about servo motors, how they work, and how to move one with the Arduino (Timothy)
 - Create lesson about LCD (a type of display that works with the arduino), how it works, and how you can display a message onto it (Megha)
 
-[Curriculum Docs:](../Links/Curriculum%20Google%20Docs) 
+[Curriculum Google Docs](../Links/Curriculum%20Google%20Docs.md) - edit directly here.
 
