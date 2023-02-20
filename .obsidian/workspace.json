@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InoArduino/Website Developer.md",
+                "file": "InoArduino/Student Mentoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InoArduino/Website Developer.md",
+                "file": "InoArduino/Student Mentoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InoArduino/Website Developer.md",
+                "file": "InoArduino/Student Mentoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InoArduino/Website Developer.md"
+                "file": "InoArduino/Student Mentoring.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "c0196a4c7410c69d",
   "lastOpenFiles": [
+    "InoArduino/Links/Workshops.md",
+    "InoArduino/Student Mentoring.md",
+    "InoArduino/Improvements/Logistic Improvements.md",
+    "InoArduino/Improvements/Curriculum Improvements.md",
+    "InoArduino/Website Developer.md",
     "README.md",
     "InoArduino/Tasks.md",
-    "InoArduino/Student Mentoring.md",
     "InoArduino/Curriculum Builder.md",
     "InoArduino/About InoArduino.md",
-    "InoArduino/Improvements/Curriculum Improvements.md",
-    "InoArduino/Improvements/Logistic Improvements.md",
-    "InoArduino/Improvements/Website Improvements.md",
-    "InoArduino/Links/Arduino Docs.md",
-    "InoArduino/Links/Arduino IDE.md"
+    "InoArduino/Improvements/Website Improvements.md"
   ]
 }
