@@ -4,8 +4,8 @@ Structure
 -   **Co-Directors**: Advay Balakrishnan and Anit Padalkar  
 -   **Leads**: Lucas Zheng, Joshua Upputuri
 - Teams
-	- **Student Mentors**: Melody Shen, Anuj Lall, Catarina Chia
+	- **Student Mentors**: Anuj Lall, Catarina Chia
 	- **Curriculum Builders**: Megha Arora, Allison Lao, Mikayla Lee, Timothy Kent, Chunqiang Zheng
-	- **Website Developers**: Joshua Upputuri, Aayan Maheshwari, Justin Shi, Aahan Patel
-	- **Logisticians**: Pratham Muriki
+	- **Website Developers**: Joshua Upputuri, Aayan Maheshwari, Justin Shi, Aahan Patel, Allison Lao
+	- **Logistics**: Pratham Muriki, Allison Lao 
 	- **Designers:** Neel Billmoria

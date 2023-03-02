@@ -1,1 +1,4 @@
-Notes for Friday
+Action Items: 
+- Example 
+Deliverables:
+- Example
