@@ -6,3 +6,5 @@
 	- [ ] Fundraising for purchasing more electronic kits
 	- [ ] Creating Bill of Materials for parts 
 	- [ ] Contacting outreach locations 
+
+See [[Logistic Improvements]].

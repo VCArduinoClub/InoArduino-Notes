@@ -1,4 +1,4 @@
- InoArduino is an Arduino learning platform for students in the elementary school to middle school age range interested in learning about computer engineering. We teach by mentoring students directly, through our hands-on activities with custom electronic kits, and of course our website which has all of our lessons. We work with local organizations in the Silicon Valley to find students we can outreach to and have even taught students in Nigeria remotely, with 350+ students mentored in total.
+ InoArduino is an [[Arduino]] learning platform for students in the elementary school to middle school age range interested in learning about electrical and computer engineering. We teach by mentoring students directly, through our hands-on activities with custom electronic kits, and of course our website which has all of our lessons. We work with local organizations in the Silicon Valley to find students we can outreach to and have even taught students in Nigeria remotely, with 350+ students mentored in total.
 
 Structure
 -   **Co-Directors**: Advay Balakrishnan and Anit Padalkar  
