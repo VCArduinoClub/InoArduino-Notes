@@ -1,4 +1,4 @@
-**General Notes:** 
+### **General Notes:** 
 -   Live runtime environment and feedback (hard)
 -   Would allow to run without arduinos
 -   Visual improvements (easy - medium)
@@ -8,7 +8,7 @@
 	-   Would be nice to have code blocks which show answers and for lessons
 -   Current plan for the website is to use a new framework (T3 stack) instead of a static Flutter web app
 
-**Action Items:** 
+### **Action Items:** 
 1. Migrating to a T3 stack (Josh, Aayan, Justin)
 	-   Make modules and navigation (refer to curriculum on google docs) 
 	-   Migrate the curriculum from docs to the website
