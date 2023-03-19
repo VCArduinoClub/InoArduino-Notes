@@ -17,6 +17,7 @@
 	- **Or**:
 		- Teaching students through zoom, with advisors there to help troubleshoot ($ possibly warranted)
 	- [ ] Decide whether or not to charge money for each of these scenarios (Anit, Advay)
+	- #### **Current Stratford Volunteers - Lucas Zheng, Mikayla Lee, Allison Lao**
 
 - [ ] Design Tasks
 	- [ ] Make a new logo (Neel)
