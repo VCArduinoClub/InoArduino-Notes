@@ -4,7 +4,7 @@
 	- Networking is necessary to find outreach locations
 - ### Current Tasks:
 	- [ ] Fundraising for purchasing more electronic kits
-	- [ ] Creating Bill of Materials for parts 
+	- [ ] Creating Bill of Materials for updated parts 
 	- [ ] Contacting outreach locations 
 
 See [[Logistic Improvements]].

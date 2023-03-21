@@ -9,6 +9,7 @@
 	- [ ] Draft email - find info about organization by referring to slides from first meeting or directly asking leads
 - [x] Look into 501(c)3 organization (Pratham) 
 - [ ] Look into recieving funding through school or through grants/sponsors (Pratham)
+
 - [ ] Decide how we should structure our program in the future for Stratford (Anit, Advay)
 	- **Either**:
 		- Having student mentors teaching in person ($ warranted for kits and teaching)
@@ -17,7 +18,7 @@
 	- **Or**:
 		- Teaching students through zoom, with advisors there to help troubleshoot ($ possibly warranted)
 	- [x] Decide whether or not to charge money for each of these scenarios (Anit, Advay)
-		- [ ] Respond back to Mr. Cheng to finalize dates (Anit, Advay)
+		- [x] Respond back to Mr. Cheng to finalize dates (Anit, Advay)
 	- #### **Current Stratford Volunteers - Lucas Zheng, Mikayla Lee, Allison Lao**
 
 - [ ] Design Tasks
