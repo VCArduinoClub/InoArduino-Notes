@@ -16,7 +16,8 @@
 		- Teaching advisors the curriculum, who then teach the students ($ possibly warranted for kits)
 	- **Or**:
 		- Teaching students through zoom, with advisors there to help troubleshoot ($ possibly warranted)
-	- [ ] Decide whether or not to charge money for each of these scenarios (Anit, Advay)
+	- [x] Decide whether or not to charge money for each of these scenarios (Anit, Advay)
+		- [ ] Respond back to Mr. Cheng to finalize dates (Anit, Advay)
 	- #### **Current Stratford Volunteers - Lucas Zheng, Mikayla Lee, Allison Lao**
 
 - [ ] Design Tasks
