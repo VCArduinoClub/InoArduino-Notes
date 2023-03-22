@@ -18,8 +18,9 @@
 	- **Or**:
 		- Teaching students through zoom, with advisors there to help troubleshoot ($ possibly warranted)
 	- [x] Decide whether or not to charge money for each of these scenarios (Anit, Advay)
-		- [x] Respond back to Mr. Cheng to finalize dates (Anit, Advay)
+		- [ ] Respond back to Mr. Cheng to finalize dates (Anit, Advay - Econ)
 	- #### **Current Stratford Volunteers - Lucas Zheng, Mikayla Lee, Allison Lao**
+		- Tuesday is available for everyone
 
 - [ ] Design Tasks
 	- [ ] Make a new logo (Neel)
