@@ -12,8 +12,8 @@
 		- [x] Respond back to Mr. Cheng to finalize dates (Anit, Advay - Econ)
 	- #### **Current Stratford Volunteers - Lucas Zheng, Mikayla Lee, Allison Lao**
 		- Tuesday is available for everyone
-- [ ] Finish InoArduino Bylaws by today, 3/31, (Anit, Pratham)
-	- [ ] Submit non-profit application by Monday 4/2 (Anit, Advay)
+- [ ] Finish InoArduino Bylaws by end of AP Exams, 5/20, (Anit, Pratham)
+	- [ ] Submit non-profit application after 5/21 or 5/22 (Anit, Advay)
 
 - [ ] Design Tasks
-	- [ ] Make a new logo (Neel)
+	- [ ] Make a new logo (Neel) or find someone else to do it
