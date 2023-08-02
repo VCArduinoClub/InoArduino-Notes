@@ -4,7 +4,7 @@
 -   **Co-Directors**: Advay Balakrishnan and Anit Padalkar  
 -   **Leads**: Lucas Zheng, Joshua Upputuri
 - ### Teams
-	- **Student Mentors**: Anuj Lall, Catarina Chia, Allison Lao, Mikayla Lee
+	- **Student Mentors**: Anuj Lall, Catarina Chia, Allison Lao, Mikayla Lee, Lucas Zheng
 	- **Curriculum Builders**: Megha Arora, Allison Lao, Mikayla Lee, Timothy Kent, Chunqiang Zheng
 	- **Website Developers**: Joshua Upputuri, Aayan Maheshwari, Justin Shi, Aahan Patel, Allison Lao
 	- **Logistics**: Pratham Muriki, Allison Lao 
