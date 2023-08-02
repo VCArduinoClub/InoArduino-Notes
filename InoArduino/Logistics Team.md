@@ -3,8 +3,8 @@
 	- It keeps our organization running in terms of finance and users 
 	- Networking is necessary to find outreach locations
 - ### Current Tasks:
-	- [ ] Fundraising for purchasing more electronic kits
-	- [ ] Creating Bill of Materials for updated parts 
-	- [ ] Contacting outreach locations 
+	- [x] Fundraising for purchasing more electronic kits
+	- [x] Creating Bill of Materials for updated parts 
+	- [x] Contacting outreach locations 
 
 See [[Logistic Improvements]].
